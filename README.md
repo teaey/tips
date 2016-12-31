@@ -1,4 +1,4 @@
-# tips
+# :sunny:tips
 
 ## index
 
