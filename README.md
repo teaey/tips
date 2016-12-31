@@ -2,4 +2,4 @@
 
 ## :point_right:index
 
-- [关于并行和并发](concurrency&parellelism.md)
+- <a href="concurrency&parellelism.md" target="_blank">关于并行和并发</a>
