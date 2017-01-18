@@ -1,4 +1,5 @@
 # :sunny:tips
+Personal collection of diary, ebook, summary, realize.
 
 ## :point_right:index
 
